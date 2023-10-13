@@ -1,3 +1,7 @@
+# Contador Java
+
+Esse projeto foi criado para resolver o desafio do curso da DIO ofertado pelo Santander.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
